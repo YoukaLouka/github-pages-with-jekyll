@@ -1,5 +1,5 @@
 ---
-title: "Aloha
+title: "ALOHA"
 ---
 
 Welcome to the Electric Boogaloo
