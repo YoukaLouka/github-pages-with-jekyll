@@ -1,5 +1,7 @@
+---
 title: "I can't believe random blog post generators exist"
-date: 2022-10-6
+date: 2022-06-10
+---
 
 Took the plunge. Dealing with the fall-out. About to secure my freedom from the evil tentacled monster. Takes 12 steps, but I hit a brick wall at 8.
 
