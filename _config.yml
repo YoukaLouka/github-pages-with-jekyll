@@ -16,4 +16,5 @@ github_username:  YoukaLouka # DO NOT include the @ character, or else the build
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+........
 ![Human]({{ BASE_PATH }}/blob/main//docs/assets/IMG_6498.jpg)
