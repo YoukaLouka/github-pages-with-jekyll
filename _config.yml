@@ -3,7 +3,7 @@ author: Ioannis Loukidis
 email: yloukidis@gmail.com
 theme: minima
 
-BASE_PATH : /docs
+BASE_PATH : /github-pages-with-jekyll/blob/main//docs
 ![Human]({{ BASE_PATH }}/assets/IMG_6498.jpg)
 
 
