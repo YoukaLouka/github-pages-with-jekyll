@@ -3,10 +3,6 @@ author: Ioannis Loukidis
 email: yloukidis@gmail.com
 theme: minima
 
-BASE_PATH: /github-pages-with-jekyll
-
-
-
 description: > # this means to ignore newlines until "baseurl:"
   I CAN NOT BE HELD RESPNSIBLE FOR WHAT MY FACE DOES WHEN YOU TALK. 
 
@@ -17,4 +13,4 @@ github_username:  YoukaLouka # DO NOT include the @ character, or else the build
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 ........
-![Human]({{ BASE_PATH }}/blob/main//docs/assets/IMG_6498.jpg)
+![Human](/github-pages-with-jekyll/blob/main//docs/assets/IMG_6498.jpg)
